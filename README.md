@@ -21,10 +21,6 @@ You can download the password lists directly from this repository.
 ## Usage
 - Challenges : CTF users might find it useful especially [`common_passwords.txt`](common_passwd.txt) system passwords
 
-## ⚠️ Disclaimer
-
-This repository is intended for **educational purposes** only. Use this information responsibly and ensure you comply with all applicable laws and regulations.
-
 ## 🔗 Resources
 
 - [NCSC Password List](https://www.ncsc.gov.uk/static-assets/documents/PwnedPasswordsTop100k.txt)
