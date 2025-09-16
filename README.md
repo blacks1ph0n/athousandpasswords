@@ -14,12 +14,12 @@ This repository contains:
 You can download the password lists directly from this repository.
 
 ### Structure
-- `common_passwds.txt` : Contains the 1000* most common UNIX/Linux/system passwords.
-- `10K-Most-Popular-Passwords.txt` : Contains a list of 10,000 most common passwords sourced from [this Reddit post](https://www.reddit.com/r/wikipedia/comments/1ggk0v8/10000_most_common_passwords/).
-- `PwnedPasswordsTop100k.txt` : Includes breached passwords sourced from the [NCSC](https://www.ncsc.gov.uk/static-assets/documents/PwnedPasswordsTop100k.txt).
+- [`common_passwords.txt`](common_passwd.txt) : Contains the 1000* most common UNIX/Linux/system passwords.
+- [`10K-Most-Popular-Passwords.txt`](10K-Most-Popular-Passwords.txt) : Contains a list of 10,000 most common passwords sourced from [this Reddit post](https://www.reddit.com/r/wikipedia/comments/1ggk0v8/10000_most_common_passwords/).
+- [`PwnedPasswordsTop100k.txt`](PwnedPasswordsTop100k.txt) : Includes breached passwords sourced from the [NCSC](https://www.ncsc.gov.uk/static-assets/documents/PwnedPasswordsTop100k.txt).
 
 ## Usage
-- Challenges : CTF users might find it useful especially `common_passwrds.txt`  system passwords
+- Challenges : CTF users might find it useful especially [`common_passwords.txt`](common_passwd.txt) system passwords
 
 ## ⚠️ Disclaimer
 
